@@ -1,0 +1,13 @@
+#tic-tac-toe {
+    display: grid;
+    width: 300px;
+    height: 300px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    margin: auto;
+}
+
+/* #tic-tac-toe button: first child {
+    grid-column-start: 2; */
+
+
